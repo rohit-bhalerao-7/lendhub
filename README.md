@@ -89,9 +89,8 @@ This fully on-chain DeFi app allows users to effortlessly deposit their coins (E
 - [Alchemy Sepolia Faucet](https://sepoliafaucet.com)
 - [PoW based faucet](https://sepolia-faucet.pk910.de/) 
 
-4. If you need DAI, LINK & USDC tokens for testing email our admin
 
-5. Using/Testing the App
+4. Using/Testing the App
 - Visit https://lendhub.netlify.app and start testing
 
 ![image](https://user-images.githubusercontent.com/3410735/227120829-ce4d8ff3-cad2-46cd-817a-d86778920027.png)
